@@ -2,6 +2,8 @@
 
 Cualquier texto
 
-## Subtitulo 2##
+## Subtitulo 2
 
 *Texto en cursiva*
+
+**Texto en negrita**
